@@ -9,6 +9,8 @@ module.exports = {
                 useTabs: false,
                 singleQuote: false,
                 explicitTypes: "never",
+                ghwfqwefqfLefqefgqe,
+                fqeqgtqeg,fqefqef
             },
         },
         {
